@@ -1,0 +1,89 @@
+{
+    "https://iesantateresita.edu.pe/": [
+        {
+            "app": "LiteSpeed",
+            "ver": null,
+            "type": "Web Servers"
+        },
+        {
+            "app": "PHP",
+            "ver": null,
+            "type": "Programming Languages"
+        },
+        {
+            "app": "WordPress",
+            "ver": "6.5.3",
+            "type": "CMS,Blogs"
+        },
+        {
+            "app": "jQuery",
+            "ver": "3.7.1",
+            "type": "JavaScript Libraries"
+        },
+        {
+            "app": "jQuery",
+            "ver": "3.4.1",
+            "type": "JavaScript Libraries"
+        },
+        {
+            "app": "jQuery Migrate",
+            "ver": "\\2",
+            "type": "JavaScript Libraries"
+        },
+        {
+            "app": "Revslider",
+            "ver": "6.4.11",
+            "type": "Miscellaneous"
+        },
+        {
+            "app": "jQuery",
+            "ver": "1.13.2",
+            "type": "JavaScript Libraries"
+        },
+        {
+            "app": "Bootstrap",
+            "ver": null,
+            "type": "UI Frameworks"
+        },
+        {
+            "app": "jQuery",
+            "ver": "1.0",
+            "type": "JavaScript Libraries"
+        },
+        {
+            "app": "Lightbox",
+            "ver": null,
+            "type": "JavaScript Libraries"
+        },
+        {
+            "app": "OWL Carousel",
+            "ver": null,
+            "type": "Widgets"
+        },
+        {
+            "app": "Underscore.js",
+            "ver": "1.13.4",
+            "type": "JavaScript Libraries"
+        },
+        {
+            "app": "Font Awesome",
+            "ver": null,
+            "type": "Font Scripts"
+        },
+        {
+            "app": "Google Font API",
+            "ver": null,
+            "type": "Font Scripts"
+        },
+        {
+            "app": "animate.css",
+            "ver": null,
+            "type": "UI Frameworks"
+        },
+        {
+            "app": "MySQL",
+            "ver": null,
+            "type": "Databases"
+        }
+    ]
+}
